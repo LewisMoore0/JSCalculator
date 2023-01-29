@@ -1,4 +1,4 @@
-import { add, subtract, multiply, divide } from './app.js'
+import { add, subtract, multiply, divide } from '../src/app.js'
 
 describe('Calculator', () => {
     test('should add given arguments together', () => {
